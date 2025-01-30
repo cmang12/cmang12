@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Carmen Ang!  
 
-<!--
-**cmang12/cmang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about **building impactful software solutions**  
+🖥️ Interested in **Software Development, Cloud, Distributed Systems, and IoT**  
+🔍 Exploring **Networking, Databases, and Software Architecture**  
+📚 Always learning and growing!  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Languages:** Python, JavaScript, JavaScript, Swift  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, Flask   
+- **Cloud & DevOps:** AWS (Lambda, EC2, S3, DynamoDB), Kubernetes, Docker  
+- **Networking & IoT:** Mininet, Edge Devices, Protocols (MQTT, TCP/IP)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carmenang12/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:carmen.ang12@gmail.com)  
+
+## 🌐 Websites  
+🔗 [Portfolio](https://yourportfolio.com](https://cmang12.github.io/portfolio/ )  
